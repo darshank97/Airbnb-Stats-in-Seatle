@@ -64,8 +64,7 @@ cd Airbnb-Stats-in-Seatle
 
 ### 🔗 Useful Links
 
-#### 📊 View Dashboard on Tableau Public
- ([link](https://public.tableau.com/views/AirbnbProject_17284184608830/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+- **📊 View Dashboard on Tableau Public** ([link](https://public.tableau.com/views/AirbnbProject_17284184608830/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ### 📄 License
 - This project is licensed under the MIT License – feel free to use and adapt it.
