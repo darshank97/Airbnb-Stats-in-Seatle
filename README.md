@@ -43,8 +43,8 @@ The Tableau dashboard provides:
 ## 🚀 Getting Started
 ### Clone the Repository
 ```bash
-git clone https://github.com/darshank97/airbnb-seattle-dashboard.git
-cd airbnb-seattle-dashboard
+git clone https://github.com/darshank97/Airbnb-Stats-in-Seatle.git
+cd Airbnb-Stats-in-Seatle
 ```
 ---
 
